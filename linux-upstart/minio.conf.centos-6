@@ -18,5 +18,5 @@ env MINIOVOLUMES=/mnt/export
 limit nofile 1048576 1048576
 
 script
-        exec /usr/local/bin/minio server $MINIOVOLUMES
+        exec /opt/bin/minio server $MINIOVOLUMES
 end script

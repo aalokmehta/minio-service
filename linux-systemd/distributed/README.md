@@ -4,7 +4,7 @@ Systemd script for Distributed MinIO server.
 
 ## Installation
 
-- Systemd script is configured to run the binary from /usr/local/bin/.
+- Systemd script is configured to run the binary from /opt/bin/.
 - Systemd script is configured to run the binary as `minio-user`, make sure you create this user prior using service script.
 - Download the binary. Find the relevant links for the binary at https://min.io/download#/linux.
 

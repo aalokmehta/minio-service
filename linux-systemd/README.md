@@ -4,7 +4,7 @@ Systemd script for MinIO server.
 
 ## Installation
 
-- Systemd script is configured to run the binary from /usr/local/bin/.
+- Systemd script is configured to run the binary from /opt/bin/, please create the directory if it doesn't exist.
 - Download the binary. Find the relevant links for the binary at https://min.io/download/#linux.
 
 ## Create default configuration
