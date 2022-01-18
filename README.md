@@ -1,8 +1,5 @@
 # MinIO Init/Service Scripts
-This project provides init/service scripts for using MinIO on various Linux and BSD distributions.
-
-## Getting Help
-Please reach us [here](https://min.io/pricing) if you need help in configuring and setting up MinIO. 
+This project provides init/service scripts for using MinIO on various Linux and BSD distributions with enterprise software.
 
 ## Guidelines
 The files distributed here should adhere to these principles where relevant (adjust accordingly for each system/platform):
